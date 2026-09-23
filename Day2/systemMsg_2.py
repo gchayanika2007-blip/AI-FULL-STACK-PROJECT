@@ -3,8 +3,12 @@ response = ollama.chat(
     model='llama3.2:3b',
     messages=[
         {
+            'role':'system',
+            'content':'You are teaching a 5 years baby should understand the concept.'
+        },
+        {
             'role': 'user',
-            'content': 'Name only main types of AI'
+            'content': 'Explain AI'
             
         }
     ]
