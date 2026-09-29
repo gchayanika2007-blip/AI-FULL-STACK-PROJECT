@@ -1,0 +1,5 @@
+Aritfical Intelligence is a branch of computer science.
+Machine learning is a subset of aritfical intelligence.
+Deep learning uses neural network.
+Large Language Models can understand and generate human-like text.
+RAG combines retrieval with language generation.
